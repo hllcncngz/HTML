@@ -1,0 +1,25 @@
+.tarif ul b{
+    background-color: brown;
+    color: white;
+    border-radius: 10px;
+    
+}
+.tarif ol b{
+    background-color: brown;
+    color: white;
+    border-radius: 10px;
+    
+}
+.tarif{
+    margin-right: 200px;
+    float: right;
+}
+.tarif span{
+    
+    float: right;
+    font-size: 24px;
+    color: brown;
+}
+body{
+    background-color: rgb(224, 201, 169);
+}
